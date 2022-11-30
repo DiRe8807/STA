@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>box model</title>
+</head>
+<style>
+ #box1 {
+    position: relative;
+  left: 30px;
+    background-color: lightskyblue;
+  width:200px;
+  height: 200px;
+  border: 7px solid blue;
+  padding: 0px;
+  margin: 10px;
+}
+#box2 {
+    position: relative;
+  left: 40px;
+    background-color: yellow;
+  width:200px;
+  height: 200px;
+  border: 7px solid red;
+  padding: 0px;
+  margin: 10px;
+}
+#box3 {
+    position: relative;
+  left: 100px;
+    background-color: red;
+  width:200px;
+  height: 200px;
+  border: 7px solid green;
+  padding: 0px;
+  margin: 10px;
+}
+#box4 {
+    position: relative;
+  left: 60px;
+    background-color:green;
+  width:200px;
+  height: 200px;
+  border: 7px solid pink;
+  padding: 0px;
+  margin: 10px;
+}
+#box5 {
+    position: relative;
+  left: 20px;
+    background-color:green;
+  width:200px;
+  height: 200px;
+  border: 7px solid black;
+  padding: 0px;
+  margin: 10px;
+}
+#box6 {
+    position: relative;
+  left: 70px;
+    background-color:green;
+  width:200px;
+  height: 200px;
+  border: 7px solid yellow;
+  padding: 0px;
+  margin: 10px;
+}
+#box7 {
+    position: relative;
+  left: 10px;
+    background-color:green;
+  width:200px;
+  height: 200px;
+  border: 7px solid violet;
+  padding: 0px;
+  margin: 10px;
+}
+</style>
+<body>
+  <div id="box1">
+<img src="pecore 1.jpg" alt="" width="200" height="200">
+  </div> 
+ 
+ 
+  <div id="box2">
+ <img src="pecora 2.jpg" alt="" width="200" height="200">
+  </div>
+ 
+ 
+  <div id="box3">
+ <img src="pecore 3.jpg" alt="" width="200" height="200">
+  </div>
+ 
+  <div id="box4">
+  <img src="pecore 4.jpg" alt="" width="200" height="200">
+  </div>
+  <div id="box5">
+<img src="pecore 5.webp" alt="" width="200" height="200">
+  </div>
+  <div id="box6">
+<img src="pecore 6.jpg" alt="" width="200" height="200">
+  </div>
+  <div id="box7">
+    <img src="pecore 7.jpg" alt="" width="200" height="200">
+
+  </div>
+</body>
+</html>
